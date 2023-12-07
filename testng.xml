@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AutomateBuddy">
+	<test name="Soul and Soul">
+		<classes>
+			<class name="firsttest.Automatebuddy">
+				<methods>
+					<include name="Login_Soul_And_Soul" />
+					<include name="Add_New_Item" />
+					<include name="Open_Finance_Dashboard" />
+					<include name="Open_Customer_Dashboard" />
+					<include name="Open_Item_Master_Summary" />
+					<include name="Open_Sales_Report_Summary" />
+					<include name="Open_Pending_Orders" />
+					<include name="Open_Item_Master" />
+					<include name="Open_Admin_Panel" />
+					<include name="Open_Setting" />
+					<include name="Removed_Item_Successfully" />
+					<include name="Log_Out_User" />
+					
+				</methods>
+			</class>
+		</classes>  
+	</test>
+	<test name="Arabian Dastar" enabled="false">
+		<classes>
+			<class name="firsttest.TestDastar">
+				<methods>
+					<include name="Open_Arabaian_Dastar_URL" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite> 
