@@ -34,5 +34,12 @@ Key Achievements:
 >Recorded a comprehensive screen demo showcasing the test executions.
 >Generate TestNG Report
 
+## Contact
+
+If you have questions, suggestions, or would like to collaborate, please feel free to reach out:
+
+- **Email:** omkarnikalje409@gmail.com
+- **Linkdin:** www.linkedin.com/in/omkar-nikalje-79b5561bb
+  
 Discuss any necessary adjustments or improvements.
 Feel free to drop comments or questions directly on the DM. Let's ensure top-notch quality for our project! 🌐💻 hashtag#AutomationTesting hashtag#Selenium hashtag#TestNG hashtag#QualityAssurance
